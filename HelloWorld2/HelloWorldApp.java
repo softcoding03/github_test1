@@ -6,6 +6,7 @@ public class HelloWorldApp {
 			}
 			//System.out.println("");
 		System.out.println(" ---- "); 
+		System.out.print(" 이클립스에서 커밋합니다")
 		}
 	}
 }
