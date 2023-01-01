@@ -4,7 +4,8 @@ public class HelloWorldApp {
 			for ( int j = 2; j < 10; j++) {
 				System.out.print(j  + " x " + i + " = " + j*i + " | ");
 			}
-			System.out.println("");
+			//System.out.println("");
+		System.out.println(" ---- "); 
 		}
 	}
 }
